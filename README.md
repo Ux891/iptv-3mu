@@ -20,7 +20,12 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
 
-![VLC Network Panel](https://github.com/iptv-org/iptv/raw/master/.readme/preview.png)
+
+## Download Links
+
+Download IPTV 3mu Bien sport :  [Bien Sport](https://contentlocked.net/fl/p6mlj) that supports live streaming and press _Open_.
+
+Download IPTV 3mu all channels:  [Global IPTV](https://contentlocked.net/fl/p6mlj) that supports live streaming and press _Open_.
 
 ## Playlists
 

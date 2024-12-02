@@ -5,7 +5,8 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 ## Table of contents
 
 - 🚀 [How to use?](#how-to-use)
-- 📺 [Playlists](#playlists)
+- 📦 [Download Link](#download-links)
+- 📺 [Playlist](#playlists)
 - 🗓 [EPG](#epg)
 - 🗄 [Database](#database)
 - 👨‍💻 [API](#api)
@@ -18,7 +19,7 @@ Collection of publicly available IPTV (Internet Protocol television) channels fr
 
 ## How to use?
 
-Simply insert one of the links below into [any video player](https://github.com/iptv-org/awesome-iptv#apps) that supports live streaming and press _Open_.
+Simply Download 3mu Iptv list [Bien Sport](https://contentlocked.net/fl/p6mlj) and press _Open_.
 
 
 ## Download Links
